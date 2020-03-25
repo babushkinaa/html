@@ -19,7 +19,7 @@
 }
 .item-photo {
     display: inline-block;
-    background-image: url(../img/headphones.svg);
+    background-image: url(../.img/headphones.svg);
     /* height: 80%; */
     width: 40%;
     margin: 20px;
