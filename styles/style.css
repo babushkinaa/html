@@ -10,27 +10,24 @@
 
 }
 .card-item {
-    /* display: inline-block; */
     background-color: white;
     border: solid 0.62px #e4e4e4;
-    /* height: 502.5px; */
     height: 100%;
     width: 100%;
 }
 .item-photo {
     display: inline-block;
-    /* background-image: url(../.img/headphones.svg); */
-    /* height: 80%; */
     width: 40%;
     margin: 20px;
     padding: 20px;
+    vertical-align: middle;
 }
 
 .item-content{
     display: inline-block;
-    /* height: 80%; */
     width: 40%;
     margin: 20px;
+    vertical-align: middle;
 }
 .item-names {
     text-align: left;
